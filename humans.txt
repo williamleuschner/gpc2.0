@@ -1,0 +1,39 @@
+/*INFO*/
+Proudly hand-coded by William Leuschner
+(I borrowed some CSS from the HTML5 website. Their nav bar is excellent.)
+This is the website for the Central Dauphin Green Power Club.
+Our club is set up to help innovate new methods for making the world a greener place.
+
+/*TEAM*/
+Damien Koussis - 
+Eleni Parke - Secretary
+Joey Martin - Treasurer
+Jon Veli - Treasurer
+Kasey Hudson -
+Krishnall Zaver -  
+Max Ruello - President
+Nick Rabuck - Vice President
+Peyton Rumachyk - Secretary
+Tanya Betz - 
+William Leuschner - Web Dev & Engineer
+
+/*SOFTWARE*/
+Sublime Text 3 -- sublimetext.com/3
+Vim -- vim.org
+Mozilla Firefox -- mozilla.org/firefox
+Google Chrome -- google.com/chrome
+Apple Safari -- apple.com/safari
+Prompt - panic.com/prompt
+Drafts - draftsapp.com
+OS X -- apple.com/macosx
+Arch Linux -- archlinux.org
+iOS 7 - apple.com/ios
+ENCOM OS-12 -- tron.wikia.com/wiki/ENCOM_OS-12
+
+/*SITE*/
+Last Updated: 1-16-14
+Standards: HTML5, CSS3, JS(whatever the current version is)
+Components: None! We're vanilla!
+Software: Look up.
+
+The goal of this year's project was to create a solar-powered weather-monitoring blimp that is controlled with the Phoenix Contact nanoLine industrial automation controller.

@@ -1,0 +1,42 @@
+/*INFO*/
+Proudly hand-coded by William Leuschner
+This is the website for the Central Dauphin Green Power Club.
+Our club is  
+
+/*TEAM*/
+Damien Koussis - 
+Eleni Parke - Secretary
+Ghita Benjeloun -
+Joey Martin - Treasurer
+Jon Veli - Treasurer
+Kasey  ... -
+Krishnall Zaver - 
+Maria Contreres - 
+Max Ruello - President
+Nick Rabuck - Vice President
+Peyton ... - Secretary
+Shaun Jacobs
+Tanya Betz - 
+William Leuschner - Web Dev & Engineer
+Wissam Belkitar -
+
+
+/*SOFTWARE*/
+Sublime Text 2 -- sublimetext.com/2
+Mozilla Firefox -- mozilla.org/firefox
+Google Chrome -- google.com/chrome
+PowerHTML - ? (Look it up on the App Store)
+Prompt - panic.com/prompt
+Drafts - draftsapp.com
+OS X -- apple.com/macosx
+Ubuntu -- ubuntu.com/
+iOS 7 - apple.com/ios
+ENCOM OS-12 -- tron.wikia.com/wiki/ENCOM_OS-12
+
+/*SITE*/
+Last Updated: 9-29-13
+Standards: HTML5, CSS3, JS(whatever the current version is)
+Components: None! We're vanilla!
+Software: Look up.
+
+The goal of this year's project was to embed the nanoLine into newly emerging alternative energy options. We decided to go with the Sheerwind turbine as the power source and will be using the nanoLine for power production, use and monitoring, and energy distribution.
