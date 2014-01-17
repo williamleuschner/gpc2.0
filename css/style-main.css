@@ -88,7 +88,7 @@ p, h1, div, body, td, table, tr, a, sub, sup, span, header, footer, section, art
 	font-weight:lighter;
 }
 html {
-	font-family:'Avenir Next', 'Helvetica Neue Light', sans-serif;
+	font-family:'Avenir Next','Nunito', 'Helvetica Neue Light', sans-serif;
 	font-weight:400;
 }
 body {
