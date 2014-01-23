@@ -22,7 +22,6 @@ nav {
 	cursor: pointer;
 	left: 0;
 	display: block;
-	line-height:auto!important;
 }
 nav #menu {
 	display: none;
@@ -150,7 +149,6 @@ footer img {
 	background: -o-linear-gradient(top,  #00aa00 0%,#008800 100%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top,  #00aa00 0%,#008800 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #00aa00 0%,#008800 100%); /* W3C */
-	box-shadow: outset 0 0 10px #000;
 }
 .heavy {
 	font-weight:600;
@@ -181,7 +179,7 @@ footer img {
 .caption {
 	text-align:center;
 	font-size:12px;
-	text-decoration:italic;
+	font-style:italic;
 	margin:1px;
 }
 .image {
