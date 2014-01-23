@@ -1,86 +1,87 @@
 /* Nav Styles */
-nav h1 {
-	-moz-transform: rotate(90deg);
-	-webkit-transform: rotate(90deg);
-	-o-transform: rotate(90deg);
-	transform: rotate(90deg);
-	padding: 10px;
-	margin: 32px -25px;
-}
-nav {
-	z-index: 1000;
-	position: fixed;
-	min-width: 70px;
-	text-align: center;
-	padding: 0;
-	margin: 0;
-	max-width: 148px;
-	background: #0A0;
-	color: #fff;
-	overflow: hidden;
-	top: 36%;
-	cursor: pointer;
-	left: 0;
-	display: block;
-}
-nav #menu {
-	display: none;
-}
-nav:hover #menu {
-	display: block;
-}
-nav:hover h1 {
-	display: none
-}
-nav ul {
-	text-align: left;
-	width: 120px;
-}
-nav a {
-	font-style: normal;
-	display: block;
-	color: #fff;
-	text-decoration: none;
-	padding: 6px 0 4px 16px;
-}
-nav a:hover {
-	outline-style: none;
-	outline-color: invert;
-	outline-width: 0;
-	background: #459245;
-	text-decoration: none;
-	color: #dddddd;
-}
-nav a:focus {
-	outline-style: none;
-	outline-color: invert;
-	outline-width: 0;
-	background: #459245;
-	text-decoration: none;
-}
-ul {
-	border: 0;
-	padding: 0;
-	margin: 0;
-	outline-style: none;
-	outline-color: invert;
-	outline-width: 0;
-	background: none transparent scroll repeat 0 0;
-	font-size: 100%;
-	font-weight: normal;
-}
-li {
-	border: 0;
-	padding: 0;
-	margin: 0;
-	outline-style: none;
-	outline-color: invert;
-	outline-width: 0;
-	background: none transparent scroll repeat 0 0;
-	font-size: 100%;
-	font-weight: normal;
-}
-.navLink {
+@media screen and (min-width: 641px) {
+
+	nav h1 {
+		-moz-transform: rotate(90deg);
+		-webkit-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		transform: rotate(90deg);
+		padding: 10px;
+		margin: 32px -25px;
+	}
+	nav {
+		z-index: 1000;
+		position: fixed;
+		min-width: 70px;
+		text-align: center;
+		padding: 0;
+		margin: 0;
+		max-width: 148px;
+		background: #0A0;
+		color: #fff;
+		overflow: hidden;
+		top: 36%;
+		cursor: pointer;
+		left: 0;
+		display: block;
+	}
+	nav #menu {
+		display: none;
+	}
+	nav:hover #menu {
+		display: block;
+	}
+	nav:hover h1 {
+		display: none
+	}
+	nav ul {
+		text-align: left;
+		width: 120px;
+	}
+	nav a {
+		font-style: normal;
+		display: block;
+		color: #fff;
+		text-decoration: none;
+		padding: 6px 0 4px 16px;
+	}
+	nav a:hover {
+		outline-style: none;
+		outline-color: invert;
+		outline-width: 0;
+		background: #459245;
+		text-decoration: none;
+		color: #dddddd;
+	}
+	nav a:focus {
+		outline-style: none;
+		outline-color: invert;
+		outline-width: 0;
+		background: #459245;
+		text-decoration: none;
+	}
+	ul {
+		border: 0;
+		padding: 0;
+		margin: 0;
+		outline-style: none;
+		outline-color: invert;
+		outline-width: 0;
+		background: none transparent scroll repeat 0 0;
+		font-size: 100%;
+		font-weight: normal;
+	}
+	li {
+		border: 0;
+		padding: 0;
+		margin: 0;
+		outline-style: none;
+		outline-color: invert;
+		outline-width: 0;
+		background: none transparent scroll repeat 0 0;
+		font-size: 100%;
+		font-weight: normal;
+	}
 }
 /*Fonts*/
 @font-face {
@@ -273,21 +274,48 @@ footer img {
 	background-color:#DD2B27;
 	border:1px solid #F7322E;
 }
+/*Mobile styles for nav bar and other stuff*/
 @media screen and (max-width: 640px) {
 	nav h1 {
 		display:none;
 	}
+	nav img {
+		display:none;
+	}
 	nav {
-		position:relative;
-		min-width: 300px;
-		/*padding: 0;
-		margin: 0;*/
+		min-width: 400px;
+		margin:0 auto;
 		width:75%;
 		background: #0A0;
 		display: block;
+		height:26px;
 	}
 	nav #menu {
 		display:block;
-
+	}
+	nav ul {
+		text-align:center;
+		width:100%;
+		height:26px;
+		margin:0 auto;
+	}
+	nav ul li {
+		float:left;
+		padding:5px;
+		background:#0A0;
+		outline:none;
+	}
+	nav a {
+		font-style: normal;
+		display:inline-block;
+		text-decoration: none;
+		color:inherit;
+		outline:none;
+	}
+	nav ul li a:active {
+		outline:none;
+	}
+	nav ul li:active {
+		background:#090;
 	}
 }
