@@ -273,3 +273,21 @@ footer img {
 	background-color:#DD2B27;
 	border:1px solid #F7322E;
 }
+@media screen and (max-width: 640px) {
+	nav h1 {
+		display:none;
+	}
+	nav {
+		position:relative;
+		min-width: 300px;
+		/*padding: 0;
+		margin: 0;*/
+		width:75%;
+		background: #0A0;
+		display: block;
+	}
+	nav #menu {
+		display:block;
+
+	}
+}
