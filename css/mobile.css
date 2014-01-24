@@ -1,0 +1,45 @@
+/*Mobile styles for nav bar and other stuff*/
+@media screen and (max-width: 640px) {
+	nav h1 {
+		display:none;
+	}
+	nav img {
+		display:none;
+	}
+	nav {
+		min-width: 400px;
+		margin:0 auto;
+		width:75%;
+		background: #0A0;
+		display: block;
+		height:26px;
+	}
+	nav #menu {
+		display:block;
+	}
+	nav ul {
+		text-align:center;
+		width:100%;
+		height:26px;
+		margin:0 auto;
+	}
+	nav ul li {
+		float:left;
+		padding:5px;
+		background:#0A0;
+		outline:none;
+	}
+	nav a {
+		font-style: normal;
+		display:inline-block;
+		text-decoration: none;
+		color:inherit;
+		outline:none;
+	}
+	nav ul li a:active {
+		outline:none;
+	}
+	nav ul li:active {
+		background:#090;
+	}
+}
