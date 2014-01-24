@@ -187,7 +187,6 @@
 		font-size:40px;
 		height:50px;
 		text-align:center;
-		color:#F7D000;
 	}
 	.legalese {
 		padding-top:15px;
@@ -202,7 +201,6 @@
 		display:block;
 		position:relative;
 		top:20px;
-		margin:0 auto;
 	}
 	.subtitleWrap {
 		height:40%;

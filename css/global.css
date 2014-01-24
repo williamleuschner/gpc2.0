@@ -50,3 +50,9 @@ section h1 {
 .noDec {
 	text-decoration:none;
 }
+.siteTitle {
+	color:#F7D000;
+}
+.titleWrap {
+	margin:0 auto;
+}

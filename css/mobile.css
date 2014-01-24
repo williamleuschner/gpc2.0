@@ -42,4 +42,17 @@
 	nav ul li:active {
 		background:#090;
 	}
+	header,footer, .sectionGroup {
+		width:100%;
+	}
+	.siteTitle {
+		font-size:25pt;
+	}
+	.twit {
+		display:none;
+	}
+	.clubPhoto {
+		width:630px;
+		margin:0 auto;
+	}
 }
