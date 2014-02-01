@@ -100,6 +100,22 @@
 		padding-bottom: 7px;
 	}
 	.sidebarSocial {
-		width:300px;
+		width:250px;
+		margin:0 auto 5px auto
+	}
+	.sidebarSocial h1 {
+		margin:0 auto;
+		width:70%;
+		padding:3px;
+	}
+	#socialImages {
+		width:116px;
+		margin:0 auto;
+	}
+	.legalese {
+		padding-top: 5px;
+	}
+	footer {
+		text-align:center;
 	}
 }
