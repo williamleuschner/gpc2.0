@@ -42,6 +42,12 @@
 	nav ul li:active {
 		background:#090;
 	}
+	html {
+		-webkit-text-size-adjust:none;
+	}
+	body {
+		font-weight:400;
+	}
 	header,footer, .sectionGroup {
 		width:100%;
 	}
@@ -55,7 +61,7 @@
 		display:none;
 	}
 	.clubPhoto {
-		width:600px;
+		width:300px;
 		margin:0 auto 3px auto;
 		display:block;
 	}
@@ -92,6 +98,7 @@
 		font-weight: 400;
 		text-align:center;
 		margin-bottom:9px;
+		text-indent:0px !important;
 	}
 	.main p {
 		margin:3px 15px 0;
