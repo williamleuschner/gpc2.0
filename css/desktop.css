@@ -43,6 +43,7 @@
 		color: #fff;
 		text-decoration: none;
 		padding: 6px 0 4px 16px;
+		font-weight:400;
 	}
 	nav a:hover {
 		outline-style: none;
@@ -82,14 +83,14 @@
 		font-weight: normal;
 	}
 	header,footer,.sectionGroup {
-		min-width: 750px;
+		min-width: 630px;
 	}
 	header {
 		display:block;
 		/*position:relative;*/
-		margin: 0 auto 8px auto;
+		margin: 8px auto;
 		width: 75%;
-		height: 100px;
+		height: auto;
 	}
 	footer {
 		text-align:center;
@@ -149,12 +150,6 @@
 	.sidebarSocial a {
 		margin: 5px;
 	}
-	.socialIcon {
-		display:inline-block;
-		height:32px;
-		width:32px;
-		margin:2px;
-	}
 	#socialImages {
 		height:32px;
 		margin:5px auto 8px auto;
@@ -175,8 +170,7 @@
 		margin:5px;
 	}
 	.clubPhoto {
-		width:350px;
-		height:261px;
+		width:70%;
 		margin:0 auto;
 		display:block;
 		padding:10px 0;
@@ -185,8 +179,9 @@
 	}
 	.siteTitle {
 		font-size:40px;
-		height:50px;
+		height:auto;
 		text-align:center;
+		margin-bottom:6px;
 	}
 	.legalese {
 		padding-top:15px;
@@ -196,7 +191,7 @@
 		margin:5px auto 2px auto;
 	}
 	.titleWrap {
-		width:80%;
+		width:98%;
 		height:60%;
 		display:block;
 		position:relative;
@@ -204,12 +199,13 @@
 	}
 	.subtitleWrap {
 		height:40%;
-		width:80%;
-		margin:5px auto;
+		width:98%;
+		margin:15px auto 0 auto;
+		padding-bottom:10px;
 		text-align:center;
 	}
 	.subtitleWrap h2 {
-		width:48%;
+		width:365px;
 		margin:0 auto;
 		padding:2px;
 		background-color:#DD2B27;

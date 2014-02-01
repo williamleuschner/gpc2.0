@@ -54,5 +54,14 @@ section h1 {
 	color:#F7D000;
 }
 .titleWrap {
-	margin:0 auto;
+	margin:5px auto;
+}
+.main p {
+	text-indent:25px;
+}
+.socialIcon {
+	display:inline-block;
+	height:32px;
+	width:32px;
+	margin:2px;
 }
