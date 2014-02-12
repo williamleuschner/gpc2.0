@@ -124,6 +124,10 @@
 		font-size:19px;
 		margin:5px;
 	}
+	.main h2 {
+		font-size:17px;
+		margin:10px 50px 5px 50px;
+	}
 	.caption {
 		text-align:center;
 		font-size:12px;

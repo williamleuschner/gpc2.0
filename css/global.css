@@ -25,7 +25,7 @@ body {
 	background: -ms-linear-gradient(top,  #212121 0%,#0f0f0f 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #212121 0%,#0f0f0f 100%); /* W3C */
 }
-section h1 {
+section h1, section h2 {
 	font-weight:600;
 	color:#F7D000;
 }

@@ -18,22 +18,22 @@ Tanya Betz -
 William Leuschner - Web Dev & Engineer
 
 /*SOFTWARE*/
-Sublime Text 3 -- sublimetext.com/3
-Vim -- vim.org
-Mozilla Firefox -- mozilla.org/firefox
-Google Chrome -- google.com/chrome
-Apple Safari -- apple.com/safari
-Prompt - panic.com/prompt
-Drafts - draftsapp.com
-OS X -- apple.com/macosx
-Arch Linux -- archlinux.org
-iOS 7 - apple.com/ios
-ENCOM OS-12 -- tron.wikia.com/wiki/ENCOM_OS-12
+Sublime Text 3 -- sublimetext.com/3 (Main text editor)
+Vim -- vim.org (Alternate text editor)
+Mozilla Firefox -- mozilla.org/firefox (Testing web browser)
+Google Chrome -- google.com/chrome (Testing web browser)
+Apple Safari -- apple.com/safari (Main testing web browser)
+Prompt - panic.com/prompt (Remote server admin client)
+Drafts - draftsapp.com (Taking notes on the go)
+OS X -- apple.com/macosx (Main development operating system)
+Arch Linux -- archlinux.org (Server OS)
+iOS 7 - apple.com/ios (Mobile testing OS)
+ENCOM OS-12 -- tron.wikia.com/wiki/ENCOM_OS-12 (Joke OS)
 
 /*SITE*/
 Last Updated: 1-16-14
-Standards: HTML5, CSS3, JS(whatever the current version is)
+Standards: HTML5, CSS3, JS$JS_VERSION
 Components: None! We're vanilla!
 Software: Look up.
 
-The goal of this year's project was to create a solar-powered weather-monitoring blimp that is controlled with the Phoenix Contact nanoLine industrial automation controller.
+The goal of this year's project was to create a solar-powered weather-monitoring blimp.
