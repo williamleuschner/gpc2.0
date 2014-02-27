@@ -8,7 +8,7 @@
 	}
 	nav {
 		margin:5px auto;
-		width:69%;
+		width:272px;
 		display: block;
 		height:26px;
 	}
@@ -26,7 +26,8 @@
 		padding:5px;
 		background:#0A0;
 		outline:none;
-		border-right:1px rgba(0,0,0,0) solid;
+		border-right:1px #000 solid;
+		width:21%;
 	}
 	nav a {
 		font-style: normal;
@@ -35,7 +36,7 @@
 		color:inherit;
 		outline:none;
 		font-weight:400;
-		font-size:19px;
+		font-size:16px;
 	}
 	nav ul li a:active {
 		outline:none;
@@ -86,9 +87,10 @@
 		margin:0 auto;
 	}
 	.main h1 {
-		width:240px;
+		width:50%;
 		margin:0 auto 5px auto;
 		padding-top:5px;
+		text-align:center;
 	}
 	.main {
 		margin-bottom: 6px;
@@ -103,7 +105,7 @@
 	}
 	.main p {
 		margin:3px 15px 0;
-		padding-bottom: 7px;
+		padding-bottom: 16px;
 	}
 	.sidebarSocial {
 		width:250px;
@@ -111,7 +113,7 @@
 	}
 	.sidebarSocial h1 {
 		margin:0 auto;
-		width:70%;
+		width:75%;
 		padding:3px;
 	}
 	#socialImages {
@@ -119,7 +121,8 @@
 		margin:0 auto;
 	}
 	.legalese {
-		padding-top: 5px;
+		padding:16px;
+		font-size:12px;
 	}
 	footer {
 		text-align:center;
