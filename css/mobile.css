@@ -92,6 +92,9 @@
 		padding-top:5px;
 		text-align:center;
 	}
+	.main h2 {
+		margin:10px 25px 5px 25px;
+	}
 	.main {
 		margin-bottom: 6px;
 	}
