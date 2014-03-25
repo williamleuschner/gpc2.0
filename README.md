@@ -8,7 +8,7 @@ Not all of this is mine. The forum (located in `/bbs`) is FluxBB. The styles for
 
 ## Project Directory
 `/Old` contains an old version of the site. Retained for posterity.  
-`/bbs` is the forum for the website. 
+`/bbs` is the forum for the website.  
 `/css` is the stylesheet directory.  
 `/img` is the images directory.  
 `/script` is the javascript directory.  
